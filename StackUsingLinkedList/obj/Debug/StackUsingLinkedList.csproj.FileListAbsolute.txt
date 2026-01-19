@@ -1,0 +1,7 @@
+C:\Users\aisha_ppxjc2l\source\repos\StackUsingLinkedList\bin\Debug\StackUsingLinkedList.exe.config
+C:\Users\aisha_ppxjc2l\source\repos\StackUsingLinkedList\bin\Debug\StackUsingLinkedList.exe
+C:\Users\aisha_ppxjc2l\source\repos\StackUsingLinkedList\bin\Debug\StackUsingLinkedList.pdb
+C:\Users\aisha_ppxjc2l\source\repos\StackUsingLinkedList\obj\Debug\StackUsingLinkedList.csproj.AssemblyReference.cache
+C:\Users\aisha_ppxjc2l\source\repos\StackUsingLinkedList\obj\Debug\StackUsingLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\aisha_ppxjc2l\source\repos\StackUsingLinkedList\obj\Debug\StackUsingLinkedList.exe
+C:\Users\aisha_ppxjc2l\source\repos\StackUsingLinkedList\obj\Debug\StackUsingLinkedList.pdb
